@@ -4,3 +4,6 @@ Content/Brushify/DistanceMeshes/Generic_Erosion_03/Textures/T_Grass_D.uasset fil
 Content/Brushify/DistanceMeshes/Generic_Erosion_04/Textures/T_Grass_D.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Brushify/DistanceMeshes/Mountain_Generic_03/Textures/T_Normal_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Brushify/DistanceMeshes/Mountain_Generic_03/Textures/T_Snow_D.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Maps/Production/Map_Beach.umap filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Maps/Production/Map_Tropical_Day.umap filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Maps/Production/Map_Tropical_Night.umap filter=lfs diff=lfs merge=lfs -text
