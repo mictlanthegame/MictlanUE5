@@ -13,3 +13,11 @@ Plugins/Oceanology_Plugin/Content/Structure/Audio/Wave/Wav_Underwater.uasset fil
 Plugins/Oceanology_Plugin/Content/Structure/Mesh/Island/SM_island_01.uasset filter=lfs diff=lfs merge=lfs -text
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_AlpinePatch001_D_alt.uasset filter=lfs diff=lfs merge=lfs -text
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_AlpinePatch001_N.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Island_02.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_MountainRock_D.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_MountainRock_N.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Norm_12_.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Penshaw_Boulder_01_D_CC_R.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Penshaw_Boulder_01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Penshaw_Boulder_07_D_CC.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Penshaw_Boulder_07_N.uasset filter=lfs diff=lfs merge=lfs -text
