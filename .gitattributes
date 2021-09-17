@@ -32,3 +32,8 @@ Content/Structure/Audio/Wave/Wav_Ocean.uasset filter=lfs diff=lfs merge=lfs -tex
 Content/Structure/Audio/Wave/Wav_Underwater.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Structure/Texture/T_AlpinePatch001_D_alt.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Structure/Texture/T_AlpinePatch001_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Structure/Texture/T_island_02.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Structure/Texture/T_Penshaw_Boulder_01_D_CC_R.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Structure/Texture/T_Penshaw_Boulder_01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Structure/Texture/T_Tile_PebblyRiverbank_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Structure/Texture/T_Tile_PebblyRiverbank_N.uasset filter=lfs diff=lfs merge=lfs -text
