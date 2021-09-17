@@ -25,3 +25,4 @@ Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tile_PebblyRiverbank_D.uas
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tile_PebblyRiverbank_N.uasset filter=lfs diff=lfs merge=lfs -text
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tree_Stump_01_D_R.uasset filter=lfs diff=lfs merge=lfs -text
 Content\jaguar_warrior_ver\jaguar_warrior_version1.uasset filter=lfs diff=lfs merge=lfs -text
+Content\jaguar_warrior_ver1\jaguar_warrior_ver_1.uasset filter=lfs diff=lfs merge=lfs -text
