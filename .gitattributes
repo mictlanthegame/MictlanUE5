@@ -24,3 +24,4 @@ Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Penshaw_Boulder_07_N.uasse
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tile_PebblyRiverbank_D.uasset filter=lfs diff=lfs merge=lfs -text
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tile_PebblyRiverbank_N.uasset filter=lfs diff=lfs merge=lfs -text
 Plugins/Oceanology_Plugin/Content/Structure/Texture/T_Tree_Stump_01_D_R.uasset filter=lfs diff=lfs merge=lfs -text
+Content\jaguar_warrior_ver\jaguar_warrior_version1.uasset filter=lfs diff=lfs merge=lfs -text
